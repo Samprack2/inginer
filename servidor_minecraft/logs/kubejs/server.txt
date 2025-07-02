@@ -1,0 +1,33 @@
+[20:33:05] [INFO ] Hello, World! (You will see this line every time server resources reload)
+[20:33:05] [INFO ] Loaded 1/1 KubeJS server scripts in 0.02 s
+[20:33:05] [INFO ] Loaded script server_scripts:script.js in 0.004 s
+[20:33:05] [INFO ] Scripts loaded
+[20:33:05] [INFO ] Scanning recipes...
+[20:33:08] [INFO ] [blocks] Found 535 tags, added 0 objects, removed 0 objects
+[20:33:08] [INFO ] [blocks] Found 535 tags, added 0 objects, removed 0 objects
+[20:33:08] [INFO ] [items] Found 1012 tags, added 0 objects, removed 0 objects
+[20:33:08] [INFO ] [items] Found 1012 tags, added 0 objects, removed 0 objects
+[20:33:08] [INFO ] [fluids] Found 112 tags, added 0 objects, removed 0 objects
+[20:33:08] [INFO ] [fluids] Found 112 tags, added 0 objects, removed 0 objects
+[20:33:08] [INFO ] [entity_types] Found 39 tags, added 0 objects, removed 0 objects
+[20:33:08] [INFO ] [entity_types] Found 39 tags, added 0 objects, removed 0 objects
+[20:33:08] [INFO ] [potions] Found 0 tags, added 0 objects, removed 0 objects
+[20:33:08] [INFO ] [potions] Found 0 tags, added 0 objects, removed 0 objects
+[20:33:08] [INFO ] [enchantments] Found 1 tags, added 0 objects, removed 0 objects
+[20:33:08] [INFO ] [enchantments] Found 1 tags, added 0 objects, removed 0 objects
+[20:33:08] [INFO ] [tile_entity_types] Found 1 tags, added 0 objects, removed 0 objects
+[20:33:08] [INFO ] [tile_entity_types] Found 1 tags, added 0 objects, removed 0 objects
+[20:33:08] [WARN ] Failed to parse recipe 'thermal:fuels/compression/compression_creosote[thermal:compression_fuel]': {"fluid_tag":"forge:creosote","amount":1000} is not a valid ingredient!
+[20:33:08] [WARN ] Failed to parse recipe 'thermal:compat/appliedenergistics2/ae2_ender_pearl_dust_convert[minecraft:crafting_shapeless]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item tag 'thermal:ender_pearl_dust'
+[20:33:08] [WARN ] Failed to parse recipe thermal:compat/appliedenergistics2/ae2_ender_pearl_dust_convert[minecraft:crafting_shapeless]: com.google.gson.JsonSyntaxException: Unknown item tag 'thermal:ender_pearl_dust'
+[20:33:08] [WARN ] Failed to parse recipe 'advancedrocketry:observatory_alt[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'advancedrocketry:solararray'
+[20:33:08] [WARN ] Failed to parse recipe advancedrocketry:observatory_alt[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'advancedrocketry:solararray'
+[20:33:08] [WARN ] Failed to parse recipe 'ravencoffee:cup_small_brew_espresso[minecraft:crafting_shapeless]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'ravencoffee:cup_small_brew_american'
+[20:33:08] [WARN ] Failed to parse recipe ravencoffee:cup_small_brew_espresso[minecraft:crafting_shapeless]: com.google.gson.JsonSyntaxException: Unknown item 'ravencoffee:cup_small_brew_american'
+[20:33:08] [INFO ] Found 8792 recipes and 0 failed recipes in 616.1 ms
+[20:33:08] [INFO ] Posted recipe events in 1.691 ms
+[20:33:09] [INFO ] Modified & removed recipes in 266.6 ms
+[20:33:09] [INFO ] Added recipes in 832.1 μs
+[20:33:09] [INFO ] Added 0 recipes, removed 0 recipes, modified 0 recipes, with 0 failed recipes and 0 fall-backed recipes
+[20:33:11] [INFO ] [functions] Found 0 tags, added 0 objects, removed 0 objects
+[20:33:11] [INFO ] [functions] Found 0 tags, added 0 objects, removed 0 objects

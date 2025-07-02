@@ -1,0 +1,17 @@
+{
+	id: "2349e40f-6487-3c24-839c-c02f62e90718"
+	type: "player"
+	player_name: "kaneki46532"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "kaneki46532"
+		"ftbteams:color": "#59FFED"
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbteams:description": ""
+		"ftbteams:free_to_join": 0b
+		"ftbchunks:allow_fake_players": 1b
+	}
+	message_history: [ ]
+	extra: { }
+}
