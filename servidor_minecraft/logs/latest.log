@@ -1796,3 +1796,24 @@ com.google.gson.JsonSyntaxException: Unknown item 'forbidden_arcanus:dark_soul'
 [04Jul2025 19:46:41.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kaneki46532 has made the advancement [Take Aim]
 [04Jul2025 19:47:45.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kaneki46532 hit the ground too hard
 [04Jul2025 19:47:47.448] [Server thread/INFO] [jecalculation/]: Failed to load default records at /workspaces/inginer/servidor_minecraft/config/jecalculation/records.json.
+[04Jul2025 19:49:20.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kaneki46532 has made the advancement [Alex's Mobs]
+[04Jul2025 19:51:04.393] [Server thread/INFO] [jecalculation/]: Failed to load default records at /workspaces/inginer/servidor_minecraft/config/jecalculation/records.json.
+[04Jul2025 19:51:31.648] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-121, y=-6, z=-396}
+[04Jul2025 19:51:55.960] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=300, y=-17, z=-282}
+[04Jul2025 19:51:55.961] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=302, y=-17, z=-282}
+[04Jul2025 20:06:14.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kaneki46532: Set the time to 1000]
+[04Jul2025 20:06:38.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kaneki46532: Set own game mode to Creative Mode]
+[04Jul2025 20:06:51.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kaneki46532: Set own game mode to Survival Mode]
+[04Jul2025 20:09:22.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kaneki46532 has made the advancement [Stone Age]
+[04Jul2025 20:12:25.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kaneki46532: Set own game mode to Creative Mode]
+[04Jul2025 20:12:52.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kaneki46532: Set own game mode to Survival Mode]
+[04Jul2025 20:12:57.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kaneki46532 has made the advancement [Enchanting Tower]
+[04Jul2025 20:13:47.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kaneki46532 has made the advancement ['X' Marks the Spot]
+[04Jul2025 20:17:16.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kaneki46532 has made the advancement [Sweet Dreams]
+[04Jul2025 20:19:21.554] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-79, y=64, z=-42}
+[04Jul2025 20:21:09.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kaneki46532 has made the advancement [What a Deal!]
+[04Jul2025 20:21:38.243] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/10338, l='ServerLevel[world]', x=672.70, y=60.00, z=-1135.56] died, message: 'Weaponsmith was slain by Zombie'
+[04Jul2025 20:21:45.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kaneki46532 has made the advancement [Suit Up]
+[04Jul2025 20:24:05.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kaneki46532 has made the advancement [I Found It Underground]
+[04Jul2025 20:24:07.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kaneki46532 has made the advancement [Amateur Archaeologist]
+[04Jul2025 20:27:57.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kaneki46532 has made the advancement [Ice Bucket Challenge]

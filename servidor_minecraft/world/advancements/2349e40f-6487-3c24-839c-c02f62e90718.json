@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "lootr:social": {
+    "criteria": {
+      "opened_chest": "2025-07-04 20:13:47 +0000"
+    },
+    "done": false
+  },
   "farmersdelight:main/root": {
     "criteria": {
       "seeds": "2025-07-04 00:00:22 +0000"
@@ -55,11 +61,31 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-07-04 20:21:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "porkchop": "2025-07-04 00:26:05 +0000"
+      "chicken": "2025-07-04 19:52:48 +0000",
+      "porkchop": "2025-07-04 00:26:05 +0000",
+      "bread": "2025-07-04 20:06:54 +0000"
     },
     "done": false
+  },
+  "byg:adventure/oh_the_biomes_youll_go": {
+    "criteria": {
+      "byg:cypress_swamplands": "2025-07-04 19:54:36 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-07-04 20:21:09 +0000"
+    },
+    "done": true
   },
   "toms_storage:unlock_glowstone": {
     "criteria": {
@@ -67,18 +93,59 @@
     },
     "done": true
   },
+  "idas:enchantingtower": {
+    "criteria": {
+      "in_enchantingtower": "2025-07-04 20:12:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2025-07-04 19:46:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-07-04 20:09:22 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "wetland": "2025-07-04 20:00:05 +0000",
+      "mystic_grove": "2025-07-04 20:22:04 +0000",
+      "field": "2025-07-04 20:08:11 +0000",
+      "grassland": "2025-07-04 20:21:59 +0000"
+    },
+    "done": false
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:taiga": "2025-07-04 00:26:18 +0000",
       "minecraft:beach": "2025-07-04 00:01:56 +0000",
       "minecraft:swamp": "2025-07-04 00:00:23 +0000",
-      "minecraft:forest": "2025-07-04 00:25:32 +0000"
+      "minecraft:cold_ocean": "2025-07-04 20:22:30 +0000",
+      "minecraft:forest": "2025-07-04 00:25:32 +0000",
+      "minecraft:ocean": "2025-07-04 20:22:31 +0000"
     },
     "done": false
   },
   "byg:husbandry/root": {
     "criteria": {
       "consumed_item": "2025-07-04 00:26:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-07-04 20:17:16 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "wetland": "2025-07-04 20:00:05 +0000"
     },
     "done": true
   },
@@ -106,6 +173,12 @@
     },
     "done": true
   },
+  "create_enchantment_industry:experienced_engineer": {
+    "criteria": {
+      "have_experience_nugget": "2025-07-04 20:13:51 +0000"
+    },
+    "done": true
+  },
   "toms_storage:unlock_dia_pearl": {
     "criteria": {
       "inv_changed-ender_pearl": "2025-07-04 00:00:22 +0000",
@@ -116,6 +189,18 @@
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2025-07-04 00:13:16 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/chests": {
+    "criteria": {
+      "sword": "2025-07-04 20:24:05 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/root": {
+    "criteria": {
+      "useitem": "2025-07-04 19:49:20 +0000"
     },
     "done": true
   },
@@ -137,6 +222,12 @@
     },
     "done": true
   },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-07-04 20:24:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_by_something": "2025-07-04 00:11:30 +0000"
@@ -152,6 +243,18 @@
   "apotheosis:affix/random": {
     "criteria": {
       "sword": "2025-07-04 00:13:16 +0000"
+    },
+    "done": true
+  },
+  "lootr:1chest": {
+    "criteria": {
+      "opened_chest": "2025-07-04 20:13:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-07-04 19:46:41 +0000"
     },
     "done": true
   },
