@@ -18699,3 +18699,22 @@ com.google.gson.JsonSyntaxException: Unknown item 'forbidden_arcanus:dark_soul'
 [04Jul2025 20:26:04.458] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [04Jul2025 20:26:04.478] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [04Jul2025 20:27:57.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kaneki46532 has made the advancement [Ice Bucket Challenge]
+[04Jul2025 20:30:56.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kaneki46532 has made the advancement [Not a Diamond]
+[04Jul2025 20:31:04.460] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jul2025 20:31:04.482] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Jul2025 20:32:41.054] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Creating a dungeon at (1060 | 69 | -844).
+[04Jul2025 20:32:41.055] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Generating layout for layer 0
+[04Jul2025 20:32:41.055] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Generated Layer 0 with 4(0) Nodes and 4(0) Rooms
+[04Jul2025 20:32:41.055] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Generating layout for layer 1
+[04Jul2025 20:32:41.055] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Generated Layer 1 with 5(0) Nodes and 5(0) Rooms
+[04Jul2025 20:32:41.055] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Generating layout for layer 2
+[04Jul2025 20:32:41.055] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Generated Layer 2 with 10(0) Nodes and 4(0) Rooms
+[04Jul2025 20:32:41.055] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Generating layout for layer 3
+[04Jul2025 20:32:41.056] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Generated Layer 3 with 8(0) Nodes and 6(0) Rooms
+[04Jul2025 20:32:41.056] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Generating layout for layer 4
+[04Jul2025 20:32:41.056] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Generated Layer 4 with 11(0) Nodes and 6(0) Rooms
+[04Jul2025 20:33:16.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kaneki46532 has reached the goal [Flawless Crystals]
+[04Jul2025 20:36:04.458] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jul2025 20:36:04.478] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Jul2025 20:39:06.348] [Server thread/DEBUG] [mixin/]: Mixing CompoundContainerMixin from ftblibrary-common.mixins.json into net.minecraft.world.CompoundContainer
+[04Jul2025 20:39:06.348] [Server thread/DEBUG] [mixin/]: ftblibrary-common.mixins.json:CompoundContainerMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
