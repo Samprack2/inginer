@@ -23,6 +23,18 @@
     },
     "done": true
   },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "rice": "2025-07-04 20:39:52 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "sweet_berries": "2025-07-04 20:45:37 +0000"
+    },
+    "done": false
+  },
   "lootr:root": {
     "criteria": {
       "always_true": "2025-07-04 00:00:22 +0000"
@@ -76,7 +88,9 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "chicken": "2025-07-04 19:52:48 +0000",
+      "sweet_berries": "2025-07-04 20:43:52 +0000",
       "porkchop": "2025-07-04 00:26:05 +0000",
+      "pumpkin_pie": "2025-07-04 20:41:14 +0000",
       "bread": "2025-07-04 20:06:54 +0000"
     },
     "done": false
@@ -209,6 +223,12 @@
   "apotheosis:affix/chests": {
     "criteria": {
       "sword": "2025-07-04 20:24:05 +0000"
+    },
+    "done": true
+  },
+  "lootr:10loot": {
+    "criteria": {
+      "loot_stat": "2025-07-04 20:41:04 +0000"
     },
     "done": true
   },
