@@ -1,10 +1,10 @@
-[19:39:44] [INIT] KubeJS 1902.6.2-build.73; MC 1902 forge
-[19:39:44] [INIT] Loaded plugins:
-[19:39:44] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
-[19:39:44] [INIT] - com.oierbravo.createsifter.compat.kubejs.KubeJSCreatesifterPlugin
-[19:39:44] [INIT] - dev.latvian.mods.kubejs.create.KubeJSCreatePlugin
-[19:39:44] [INFO] example.js#5: Hello, World! (Loaded server scripts)
-[19:39:44] [ERROR] ! example.js#8: Unknown event 'ItemEvents.registry'!
-[19:39:44] [INFO] Loaded script server_scripts:example.js in 0.056 s
-[19:39:44] [INFO] Loaded 1/1 KubeJS server scripts in 0.085 s
-[19:39:44] [INFO] Scripts loaded
+[00:21:13] [INIT] KubeJS 1902.6.2-build.73; MC 1902 forge
+[00:21:13] [INIT] Loaded plugins:
+[00:21:13] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[00:21:13] [INIT] - com.oierbravo.createsifter.compat.kubejs.KubeJSCreatesifterPlugin
+[00:21:13] [INIT] - dev.latvian.mods.kubejs.create.KubeJSCreatePlugin
+[00:21:13] [INFO] example.js#5: Hello, World! (Loaded server scripts)
+[00:21:13] [ERROR] ! example.js#8: Unknown event 'ItemEvents.registry'!
+[00:21:13] [INFO] Loaded script server_scripts:example.js in 0.008 s
+[00:21:13] [INFO] Loaded 1/1 KubeJS server scripts in 0.029 s
+[00:21:13] [INFO] Scripts loaded
