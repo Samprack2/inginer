@@ -1,8 +1,8 @@
-[00:20:48] [INIT] KubeJS 1902.6.2-build.73; MC 1902 forge
-[00:20:48] [INIT] Loaded plugins:
-[00:20:48] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
-[00:20:48] [INIT] - com.oierbravo.createsifter.compat.kubejs.KubeJSCreatesifterPlugin
-[00:20:48] [INIT] - dev.latvian.mods.kubejs.create.KubeJSCreatePlugin
-[00:20:49] [INFO] example.js#5: Hello, World! (Loaded startup scripts)
-[00:20:49] [INFO] Loaded script startup_scripts:example.js in 0.116 s
-[00:20:49] [INFO] Loaded 1/1 KubeJS startup scripts in 0.733 s
+[00:32:02] [INIT] KubeJS 1902.6.2-build.73; MC 1902 forge
+[00:32:02] [INIT] Loaded plugins:
+[00:32:02] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[00:32:02] [INIT] - com.oierbravo.createsifter.compat.kubejs.KubeJSCreatesifterPlugin
+[00:32:02] [INIT] - dev.latvian.mods.kubejs.create.KubeJSCreatePlugin
+[00:32:03] [INFO] example.js#5: Hello, World! (Loaded startup scripts)
+[00:32:03] [INFO] Loaded script startup_scripts:example.js in 0.165 s
+[00:32:03] [INFO] Loaded 1/1 KubeJS startup scripts in 0.837 s

@@ -51,6 +51,8 @@
     "criteria": {
       "minecraft:skeleton": "2025-07-04 00:12:55 +0000",
       "minecraft:spider": "2025-07-04 00:13:07 +0000",
+      "minecraft:creeper": "2025-07-08 00:43:12 +0000",
+      "minecraft:witch": "2025-07-08 00:51:55 +0000",
       "minecraft:zombie": "2025-07-04 00:13:11 +0000"
     },
     "done": false
