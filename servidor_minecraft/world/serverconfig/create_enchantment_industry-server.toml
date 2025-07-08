@@ -28,7 +28,13 @@ enableHyperEnchant = true
 enchantByBlazeEnchanterCostCoefficient = 1.0
 #.
 #Range: 0.009999999776482582 ~ 100.0
+hyperEnchantByBlazeEnchanterCostCoefficient = 1.0
+#.
+#Range: 0.009999999776482582 ~ 100.0
 copyEnchantedBookCostCoefficient = 1.0
+#.
+#Range: 0.009999999776482582 ~ 100.0
+copyEnchantedBookWithHyperExperienceCostCoefficient = 1.0
 #.
 #The amount of ink needed to be consumed by Copying one page of Written Book
 #Range: 1 ~ 100

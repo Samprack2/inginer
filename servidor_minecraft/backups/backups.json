@@ -1,0 +1,17 @@
+{
+  "backups": [
+    {
+      "worldName": "world",
+      "createTime": 1752001200032,
+      "backupLocation": "/workspaces/inginer/servidor_minecraft/backups/2025-7-8_19-0-0.zip",
+      "size": 13927488,
+      "ratio": 0.6311112,
+      "sha1": "2d2e91e10389d87b0cd6b9d7f5aecaa8e4d7739b",
+      "preview": "",
+      "snapshot": false,
+      "backupName": "automated",
+      "backupFormat": "ZIP",
+      "complete": true
+    }
+  ]
+}
